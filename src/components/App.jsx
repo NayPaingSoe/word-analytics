@@ -2,6 +2,7 @@
 import Header from "./Header"
 import Container from "./Container"
 import Footer from "./Footer"
+import TestUseQuantity from "./TestUseQuantity"
 
 function App() {
 
@@ -9,6 +10,8 @@ function App() {
     <>
     <Header />
     <Container />
+    <TestUseQuantity />
+
     <Footer />
     </>
   )
